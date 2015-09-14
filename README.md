@@ -1,3 +1,3 @@
 # hello-world
 tutorial using GitHub
-I hope I get enlightment.
+This is for double commit.
